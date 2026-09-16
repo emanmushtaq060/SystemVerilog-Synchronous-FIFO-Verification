@@ -43,11 +43,8 @@ The testbench:
 
 ## Simulation Results
 
-The testbench was simulated using QuestaSim.
+The testbench was simulated using EPWave.
 
-### Simulation Output
-
-![Simulation Output](images/simulation.png)
 
 ## Project Status
 
